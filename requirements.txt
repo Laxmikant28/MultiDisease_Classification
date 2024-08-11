@@ -1,0 +1,5 @@
+Flask
+Flask-SQLAlchemy
+Flask-Mail
+scikit-learn==1.0.2
+
